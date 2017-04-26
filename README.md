@@ -1,4 +1,3 @@
-
 # SPYRUS Azure IoT Basic SDK
 
 This repository references SPYRUS' Rosetta Azure IoT Basic SDKs. Rosetta Azure IoT SDKs enable you add hardware backed cryptography to your IoT solution for connecting and authenticating to Azure IoT Hub.
@@ -7,6 +6,11 @@ The Rosetta Azure IoT Basic SDK provides hardware certified key storage and cr
 
 ## SPYRUS Rosetta Azure IoT Basic Hardware SDK
 
+![alt text](https://developer.spyrus.com/developer/wp-content/uploads/2017/01/Rosetta-USB.jpg)
+![alt text](http://developer.spyrus.com/developer/wp-content/uploads/2017/04/001_microsdhc.png)
+
 The hardware SDK consists of SPYRUS Rosetta HSM’s, example code and documentation that will illustrate how to raise the assurance of the authentication and communication with Microsoft’s Azure IoT Hub.  The Basic Hardware SDK includes support for all SPYRUS HSM’s without having to utilize the FIPS 140-2 L3 encrypted secure channel between the embedded system and the Rosetta HSM. 
 
 - [Rosetta IoT Developer Site](https://developer.spyrus.com)
+
+
